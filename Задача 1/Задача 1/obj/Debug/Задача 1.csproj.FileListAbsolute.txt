@@ -1,0 +1,7 @@
+C:\Users\User-Chef\Desktop\С# праграми\ИТ КАРЕРА\2 модул\Задача 1\Задача 1\obj\Debug\Задача 1.csprojAssemblyReference.cache
+C:\Users\User-Chef\Desktop\С# праграми\ИТ КАРЕРА\2 модул\Задача 1\Задача 1\obj\Debug\Задача 1.csproj.CoreCompileInputs.cache
+C:\Users\User-Chef\Desktop\С# праграми\ИТ КАРЕРА\2 модул\Задача 1\Задача 1\bin\Debug\Задача 1.exe.config
+C:\Users\User-Chef\Desktop\С# праграми\ИТ КАРЕРА\2 модул\Задача 1\Задача 1\bin\Debug\Задача 1.exe
+C:\Users\User-Chef\Desktop\С# праграми\ИТ КАРЕРА\2 модул\Задача 1\Задача 1\bin\Debug\Задача 1.pdb
+C:\Users\User-Chef\Desktop\С# праграми\ИТ КАРЕРА\2 модул\Задача 1\Задача 1\obj\Debug\Задача 1.exe
+C:\Users\User-Chef\Desktop\С# праграми\ИТ КАРЕРА\2 модул\Задача 1\Задача 1\obj\Debug\Задача 1.pdb
